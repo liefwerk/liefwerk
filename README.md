@@ -4,8 +4,5 @@
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on open source softwares (JS or Typescript)
 - 🤔 I’m looking for help with a project called webradio-alpha (don't have enough time on my hands)
-- 💬 Ask me about ...
 - 📫 How to reach me: hello[at]nathanaeljageni[dot]fr
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I LOVE cheese and BREAD.
--->
